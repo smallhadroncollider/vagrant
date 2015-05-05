@@ -1,0 +1,10 @@
+site "https://supermarket.getchef.com/api/v1"
+
+cookbook 'apt'
+cookbook 'locale'
+cookbook 'php-fpm'
+cookbook 'mysql'
+cookbook 'database'
+cookbook 'composer'
+cookbook 'mysql2_chef_gem'
+cookbook 'certs', :git => 'https://github.com/smallhadroncollider/chef-certs'

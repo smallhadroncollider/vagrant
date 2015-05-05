@@ -1,0 +1,11 @@
+{
+    "name": "site",
+    "hostname": "site.dev",
+    "aliases": ["www.site.dev"],
+
+    "db": {
+        "name": "site",
+        "user": "site",
+        "pass": "password"
+    }
+}
